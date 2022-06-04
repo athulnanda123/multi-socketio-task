@@ -8,7 +8,7 @@ To run Back End
 To run Front End 
 
 1. go inside front end folder
-2. npm i -g serve (to serve the production build of fronend)
+2. npm i -g serve (to serve the production build of frontend)
 3. serve .
 4. go to the respective address (default localhost:3000)
 5. a simple html view also provided in the root address of back end
